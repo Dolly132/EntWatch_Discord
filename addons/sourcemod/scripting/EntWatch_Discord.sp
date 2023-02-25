@@ -3,6 +3,7 @@
 #include <EntWatch>
 
 #define PLUGIN_NAME "EntWatch_Discord"
+#define STEAM_API_CVAR "entwatch_steam_api"
 
 #include <relay_helper>
 
